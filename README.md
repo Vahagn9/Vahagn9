@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vahagn9
+- 👋 Hi, I’m @Vahagn
 - 👀 I’m interested in scripting, sport(GYM), gaming :)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on work, scripting, ....
